@@ -16,7 +16,7 @@ headers = {
     'Host': 'e-utkarsh.com',
     'Connection': 'keep-alive',
     'Accept': 'application/json, text/javascript, */*; q=0.01',
-    'User-Agent': 'Mozilla/5.0 (Linux; Android 12; RMX2121) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.5249.126 Mobile Safari/537.36',
+    'User-Agent': 'Mozilla/5.0 (Linux; Android 12; RMX1941) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.5249.126 Mobile Safari/537.36',
     'X-Requested-With': 'XMLHttpRequest',
     'Sec-Fetch-Site': 'same-origin',
     'Sec-Fetch-Mode': 'cors',
